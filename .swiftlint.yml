@@ -1,0 +1,11 @@
+excluded:
+  - Carthage
+  - Pods
+  - DerivedData
+  - vendor
+  - R.generated.swift
+  - MyPlayground.playground
+line_length: 150
+identifier_name:
+  min_length:
+    - 1
